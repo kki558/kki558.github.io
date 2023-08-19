@@ -4,17 +4,17 @@ items:
 
 -   label: 软件
 -   label: zip暴力破解 for Windows
-    file: zip\zip-win.md
+    file: zip/zip-win.md
 
 -   label: zip暴力破解 for Android
-    file: zip\zip-android.md
+    file: zip/zip-android.md
 
 -   label: 网页
 -   label: 个人主页1
-    file: kki558\home1.md
+    file: kki558/home1.md
 
 -   label: 个人主页2
-    file: kki558\home2.md
+    file: kki558/home2.md
 
 -   label: 网址导航
-    file: kki558\web-m.md
+    file: kki558/webnav.md
